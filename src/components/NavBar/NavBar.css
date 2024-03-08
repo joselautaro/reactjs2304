@@ -1,0 +1,10 @@
+nav{
+    display: flex;
+    justify-content: space-around;
+}
+nav a{
+    color: aliceblue;
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 3px;
+}
